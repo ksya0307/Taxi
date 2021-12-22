@@ -45,6 +45,10 @@ class MainActivity : AppCompatActivity() {
                                     val token:Int = doubleToken.toInt()
 
                                         println("${logIn.notice["token"]} вы авторизованы $token")
+                                        val intent = Intent(applicationContext, MapsActivity::class.java)
+                                        intent.putExtra("token", token)
+                                        startActivity(intent)
+
                                 }else{
                                     println("${logIn.notice["answer"]}")
                                 }

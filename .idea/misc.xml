@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/drawable/splash_background.xml" value="0.38153846153846155" />
         <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/layout/activity_launch_screen.xml" value="0.37135416666666665" />
-        <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/layout/activity_main.xml" value="0.19736842105263158" />
+        <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/layout/activity_main_user_screen.xml" value="0.1984375" />
+        <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/layout/activity_maps.xml" value="0.25925925925925924" />
         <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/layout/activity_sign_up.xml" value="0.49702380952380953" />
         <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/layout/activity_start_screen.xml" value="0.27037037037037037" />
         <entry key="..\:/Users/Kseniia/AndroidStudioProjects/Taxi/app/src/main/res/layout/content_start_screen.xml" value="0.27037037037037037" />
